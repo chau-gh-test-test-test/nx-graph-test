@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-graph-test/button": ["libs/button/src/index.ts"]
+      "@nx-graph-test/button": ["libs/button/src/index.ts"],
+      "@nx-graph-test/tooltip": ["libs/tooltip/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
