@@ -1,5 +1,5 @@
 import NxWelcome from './nx-welcome';
-import { Button } from '@nx-graph-test/ui';
+import { Button } from '@nx-graph-test/button';
 import { Input } from '@nx-graph-test/input';
 import { Canvas } from '@react-three/fiber';
 
