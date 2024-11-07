@@ -18,7 +18,8 @@
       "@nx-graph-test/button": ["libs/button/src/index.ts"],
       "@nx-graph-test/icon": ["libs/icon/src/index.ts"],
       "@nx-graph-test/input": ["libs/forms/input/src/index.ts"],
-      "@nx-graph-test/tooltip": ["libs/tooltip/src/index.ts"]
+      "@nx-graph-test/tooltip": ["libs/tooltip/src/index.ts"],
+      "@nx-graph-test/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
