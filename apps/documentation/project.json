@@ -1,7 +1,7 @@
 {
   "name": "nx-graph-test",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/nx-graph-test/src",
+  "sourceRoot": "apps/documentation/src",
   "projectType": "application",
   "tags": [],
   "// targets": "to see all targets run: nx show project nx-graph-test --web",
